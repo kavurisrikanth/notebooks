@@ -7,6 +7,7 @@
 **/*.npy
 **/*.csv
 **/*.txt
+**/.ipynb_checkpoints
 
 **/wifire
 **/world-development-indicators
