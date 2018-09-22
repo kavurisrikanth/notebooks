@@ -1,0 +1,17 @@
+**/*.zip
+**/*.py
+**/_*
+**/*.ini
+**/*.sqlite
+**/*.html
+**/*.npy
+**/*.csv
+**/*.txt
+
+**/wifire
+**/world-development-indicators
+**/movielens
+
+**/.DS_Store
+**/Icon_
+**/*.png
